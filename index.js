@@ -5,7 +5,7 @@ dwarvesList.push(`${i + 1}. ${dwarves[i]} `);
 }
 /*create a new array to hold the numbered list
 initialize i at 0, set condition at length of array, increment by 1 for each initialization
-push to the number of the dwarf and its name to the new array */
+push to the index + 1. for elements in dwarf array with each of their names */
     return dwarvesList.join('');
     }
     //join() method lets you group the elements of the dwarf array into a string. (seperator)
