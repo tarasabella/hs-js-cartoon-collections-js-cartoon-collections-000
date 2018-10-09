@@ -44,4 +44,5 @@ var cheese = ["cheddar", "gouda", "camambert"]
 /*function accepts the parameter of an array of foods
 create a variable to hold cheese values
 for loop that will execute and return the specific cheese in the array if the argument includes that particular cheese
+.includes() method determines if food array contains any of the cheese elements in the cheese array
 otherwise it will return the string no cheese */
